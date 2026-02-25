@@ -29,8 +29,10 @@ Built to solve real-world vegan dining friction.
 
 ## Status
 
-<img width="1417" height="1494" alt="image" src="https://github.com/user-attachments/assets/0ae3ac0a-2331-416f-be5c-f3b5d576d2e3" />
+<img width="708" height="747" alt="image" src="https://github.com/user-attachments/assets/0ae3ac0a-2331-416f-be5c-f3b5d576d2e3" />
 
-<img width="1125" height="1351" alt="image" src="https://github.com/user-attachments/assets/c558cffa-3e74-4617-b77b-f77ffe238336" />
+<img width="562.5" height="675.5" alt="image" src="https://github.com/user-attachments/assets/c558cffa-3e74-4617-b77b-f77ffe238336" />
+
+<img width="466" height="752" alt="image" src="https://github.com/user-attachments/assets/097b129b-e3b1-4a88-988d-ea8c0c8612ac" />
 
 Production MVP (private repo)
